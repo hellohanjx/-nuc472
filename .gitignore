@@ -1,13 +1,14 @@
 #此文件可以忽略文件/文件夹
 # ignore folder
 
-*/
-
+NuTiny-SDK-NUC472_LQFP176_V3.0/
+NuMicro_Protel_Schematic_Library_V1.0/
+NUC472_NUC442_BSP_CMSIS_V3.03.002/
 
 
 # ignore document
 
-
+TRM_NUC442_NUC472_Series_SC_Rev1.09.pdf
 
 
 # don't ignore folder
